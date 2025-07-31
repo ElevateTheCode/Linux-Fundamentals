@@ -2,12 +2,14 @@
 
 A complete self-learning guide to mastering the fundamentals of Linux for a career in cybersecurity.
 This project is organized in a structured, beginner-friendly way to help you build a strong foundation through notes, command examples, and practical knowledge.
+---
 🧭 Who This Is For
 
 - Students preparing for cybersecurity certifications (e.g., CompTIA Security+, CEH, OSCP)
 - Beginners learning Linux for the first time
 - Aspiring Ethical Hackers, Penetration Testers, or Security Analysts
 - Anyone who wants a structured, practical, hands-on Linux learning experience
+---
 📚 What You Will Learn
 
 - The Command Line Interface (CLI) and essential commands
@@ -17,25 +19,25 @@ This project is organized in a structured, beginner-friendly way to help you bui
 - Process and Service management
 - Package management for installing and updating tools
 - Basic Automation and Bash scripting
-
-- ✅ How to Use This Repository
+---
+ ✅ How to Use This Repository
 
 - Follow the folders in sequence (1 → 7)
 - Read each `.md` file for concept explanations and command examples
 - Practice the commands on a Linux machine (e.g., Kali, Ubuntu)
 - Experiment with file systems, users, and networking settings
 - Build your own notes and commit them here!
-
+---
 🧪 Tools Recommended
 - Kali Linux
 - Ubuntu / Debian
 - A Linux-based VM (Virtual Machine)
 - A text editor (e.g., VS Code)
 - A local terminal
+---
 🏁 Goal
 Help learners build practical Linux skills and prepare for real-world cybersecurity roles — with confidence.
-
-
+---
 
 ```plaintext
 
