@@ -17,7 +17,8 @@ This project is organized in a structured, beginner-friendly way to help you bui
 - Process and Service management
 - Package management for installing and updating tools
 - Basic Automation and Bash scripting
-✅ How to Use This Repository
+
+- ✅ How to Use This Repository
 
 - Follow the folders in sequence (1 → 7)
 - Read each `.md` file for concept explanations and command examples
