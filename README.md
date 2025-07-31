@@ -1,5 +1,3 @@
-📘 cybersecurity-linux-fundamentals
-
 A complete self-learning guide to mastering the fundamentals of Linux for a career in cybersecurity.
 This project is organized in a structured, beginner-friendly way to help you build a strong foundation through notes, command examples, and practical knowledge.
 ---
