@@ -79,3 +79,6 @@ Help learners build practical Linux skills and prepare for real-world cybersecur
 * **Bash Scripting:** Learn to write basic scripts using variables, loops, conditional statements, and functions to automate reconnaissance or log analysis.
 
 By mastering these fundamental concepts, you will build a strong foundation for your cybersecurity career, allowing you to effectively use security tools, analyze system behavior, and identify and exploit vulnerabilities.
+
+If you're feeling generous, I wouldn't say no to a cup of coffee!
+Contact: +880 19219 64044
